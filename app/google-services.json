@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "606498992401",
+    "firebase_url": "https://bookeo-fa8af.firebaseio.com",
+    "project_id": "bookeo-fa8af",
+    "storage_bucket": "bookeo-fa8af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606498992401:android:164afc08c6e0ed33fe9cb0",
+        "android_client_info": {
+          "package_name": "ie.bookeo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606498992401-mkgoajogvn6i6p1g22dp6d7oocj9s2rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTqqpijUNN0Mp_JCKZsLHsmturV1Ys5-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606498992401-mkgoajogvn6i6p1g22dp6d7oocj9s2rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
